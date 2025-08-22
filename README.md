@@ -1,11 +1,14 @@
-# Landing-Page
-# Aryan Jain — Portfolio Website
+# Aryan Jain — Personal Landing Page
 
-Welcome to the official portfolio website of **Aryan Jain**. This site showcases Aryan's work, skills, projects, and professional background in a modern, responsive, and visually engaging format.
+Welcome to the **personal landing page** of **Aryan Jain**, designed to provide a quick and elegant overview of who Aryan is, what he does, and how to get in touch.
 
-## 🌐 Live Website
+This minimalist page serves as a digital business card — simple, fast, responsive, and straight to the point.
 
-You can view the live version here: [https://aryanjain.dev](https://aryanjain.dev) *(Update this URL if necessary)*
+---
+
+## 🌐 Live Preview
+
+🔗 [View Live](https://aryanjain.dev) *(Replace with actual URL)*
 
 ---
 
@@ -13,13 +16,11 @@ You can view the live version here: [https://aryanjain.dev](https://aryanjain.de
 
 ```bash
 /
-├── index.html            # Main landing page
-├── about.html            # About me section
-├── projects.html         # Featured projects
-├── contact.html          # Contact form and details
+├── index.html            # Main HTML file
+├── style.css             # Custom styles
+├── script.js             # Optional interactivity (animations, effects)
 ├── assets/
-│   ├── css/              # Stylesheets
-│   ├── js/               # Scripts
-│   └── images/           # Media files
+│   ├── images/           # Profile picture, icons, background
+│   └── fonts/            # Custom fonts (if used)
 ├── README.md             # Project documentation
-└── LICENSE               # License information (if applicable)
+└── LICENSE               # License info (if applicable)
